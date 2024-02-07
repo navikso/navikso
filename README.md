@@ -94,5 +94,5 @@ status_summary_... - содержит таблицу со статусами PEP
 - Отправить напоминание за 1 день до времени ифтара о том, что кафе АZU ждет клиента по такому-то адресу в такое-то время
 
 Стек: Django, asyncpg, sqlalchemy, pydantic, alembic, gunicorn, pillow
-Ссылка на проект: [azu_bot](#https://github.com/Studio-Yandex-Practicum-Hackathons/cafe_azu_bot_1?tab=readme-ov-file)
+Ссылка на проект: https://github.com/Studio-Yandex-Practicum-Hackathons/cafe_azu_bot_1?tab=readme-ov-file
 
