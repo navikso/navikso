@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 # Мои проекты
 
 - [QRkot_spreadsheets](#QRkot_spreadsheets)
-- [scrapy_parser_pep] (#scrapy_parser_pep)
+- [scrapy_parser_pep](#scrapy_parser_pep)
 - [yacut](#yacut)
 - [foodgram-project-react](#foodgram-project-react)
 - [api_final_yatube](#api_final_yatube)
-- [hw05_final] (#hw05_final)
+- [hw05_final](#hw05_final)
 
 
 # Командные проекты
 
-- [azu_bot] (#azu_bot)
+- [azu_bot](#azu_bot)
 
 
 # QRkot_spreadsheets
@@ -94,5 +94,5 @@ status_summary_... - содержит таблицу со статусами PEP
 - Отправить напоминание за 1 день до времени ифтара о том, что кафе АZU ждет клиента по такому-то адресу в такое-то время
 
 Стек: Django, asyncpg, sqlalchemy, pydantic, alembic, gunicorn, pillow
-Ссылка на проект: [azu_bot] (#https://github.com/Studio-Yandex-Practicum-Hackathons/cafe_azu_bot_1?tab=readme-ov-file)
+Ссылка на проект: [azu_bot](#https://github.com/Studio-Yandex-Practicum-Hackathons/cafe_azu_bot_1?tab=readme-ov-file)
 
